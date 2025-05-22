@@ -1,2 +1,3 @@
 cat /etc/*release*
 lscpu
+lsblk
