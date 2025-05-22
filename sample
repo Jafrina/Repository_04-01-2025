@@ -1,4 +1,3 @@
-lscpu
 lsblk
 df -h
-lsblk
+cat /etc/*release*
