@@ -2,6 +2,3 @@ cat /etc/*release*
 lscpu
 lsblk
 Hello
-hi
-Good
-Nice files
