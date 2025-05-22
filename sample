@@ -1,4 +1,2 @@
 df -h
-cat /etc/*release*
-lscpu
 lsblk
